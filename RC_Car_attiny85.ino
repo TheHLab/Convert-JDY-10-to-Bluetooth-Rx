@@ -1,3 +1,11 @@
+/*
+ * JDY-10 to Bluetooth Receiver
+ * @author TheHLab
+ * @created Dec 2, 2020
+ * This code for ATTiny85 - 8Mhz internal
+ * Tutorial Video: https://youtu.be/QAJTv1-Si7I
+ */
+
 #include <NeoSWSerial.h>
 #include <SoftwareServo.h> 
 NeoSWSerial BTserial(3, 4); // RX | TX
