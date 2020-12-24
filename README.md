@@ -1,2 +1,2 @@
-# Convert-JDY-10-to-Bluetooth-Rx
+# JDY-10-to-Bluetooth-Rx
  
